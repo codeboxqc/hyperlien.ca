@@ -55,3 +55,5 @@ yt-dlp: MIT License
 ariac2: Please refer to its own licensing information.
 
 Contact Class@nutz.club
+
+Download at www.slan.be
